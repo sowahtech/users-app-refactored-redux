@@ -15,6 +15,14 @@ const initialState = {
         {
             name: 'tony',
             email: 'tony@tony.org'
+        },
+        {
+            name: 'angie333',
+            email: 'angie333@angie.org'
+        },
+        {
+            name: 'tony568',
+            email: 'tony568@tony.org'
         }
     ]
 }
