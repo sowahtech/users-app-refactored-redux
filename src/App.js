@@ -14,7 +14,19 @@ class App extends React.Component {
                 {
                     name: 'salis',
                     email: 'salis@salis.org'
-                },
+				},
+				{
+					name: 'ab',
+					email: 'ab@ab.org'
+				},
+				{
+					name: 'angie',
+					email: 'angie@angie.org'
+				},
+				{
+					name: 'tony',
+					email: 'tony@tony.org'
+				}
             ]
 		}
 		
